@@ -1,0 +1,7 @@
+plugin.bootstrap_package {
+	settings {
+		less {
+			gray-base= #FF1900
+		}
+	}
+}
